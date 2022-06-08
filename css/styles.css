@@ -1,0 +1,90 @@
+body {
+  background-image: linear-gradient(to bottom right, pink, pink, violet);
+  margin: 0;
+  text-align-last: left;
+  font-family: "Bree serif", Noto serif;
+}
+
+h1 {
+  color: #2E0249;
+  font-family: "Bree serif";
+}
+
+h3 {
+  color: #570A57;
+  font-family: "Bree serif";
+}
+
+h4 {
+  color: #16003B;
+  font-family: "Bree serif";
+}
+
+P {
+  color: #2E0249;
+  font-family: "Bree serif";
+}
+
+li {
+  color: #2E0249;
+  font-family: "Bree serif";
+}
+
+th {
+  color: #2E0249;
+  font-family: "Bree serif";
+}
+
+td {
+  color: #2E0249;
+  font-family: "Bree serif";
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: violet;
+  border-width: 5px;
+  width: 5%;
+}
+
+.skills-boosters {
+  padding: 30px;
+}
+
+.top-container {
+  margin: auto;
+  float: right;
+}
+
+.image-skillsets {
+  width: 30%;
+  float: left;
+  margin-right: 5%;
+}
+
+.middle-container {
+  padding: 30px;
+}
+
+.bottom-container {
+  padding: 30px;
+}
+
+.tab-container {
+  padding: 30px;
+  text-align: center;
+  font-family: "Bree serif", Noto serif;
+}
+
+.contact-container {
+  padding: 30px;
+  text-align: center;
+  font-family: "Bree serif", Noto serif;
+}
+
+.onlinecourses-container {
+  padding: 30px;
+  text-align: center;
+  font-family: "Bree serif", Noto serif;
+}
